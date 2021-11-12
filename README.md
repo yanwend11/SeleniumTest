@@ -13,3 +13,5 @@ Tais testes foram realizados no browser Google Chrome com o auxilio da ferrament
 > Segundo Teste - Abrir o Google Chrome, e pesquisar UniBH no google.com.br.
 
 > Terceiro Teste - Abrir o Youtube e pesquisar uma música pelo nome.
+
+> Yan Aguiar Marinho Wendling - 121118009
